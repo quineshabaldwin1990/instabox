@@ -1,0 +1,143 @@
+.parent {
+    border: 3px solid red;
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 3px solid orange;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.icon {
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 2;
+}
+
+.information {
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 2;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.title {
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.followers {
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.followers-section{
+
+}
+
+.description {
+    border: 3px solid blue;
+    padding: 10px;
+    margin: 10px;
+}
+
+.title-text {
+    border: 3px solid purple;
+    padding: 3px;
+    margin: 3px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-check {
+    border: 3px solid purple;
+    padding: 3px;
+    margin: 3px;
+}
+
+.title-button {
+    border: 3px solid lightgray;
+    padding: 6px;
+    margin: 3px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-more {
+    border: 3px solid purple;
+    padding: 3px;
+    margin: 3px;
+}
+
+.categories {
+    border: 3px solid orange;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.talent {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.travel {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.beauty {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.fluff {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.asmr {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.sports {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
+
+.art {
+    border: 3px solid green;
+    padding: 50px;
+    margin: 5px;
+    padding-left: 85px;
+}
